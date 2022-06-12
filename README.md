@@ -1,1 +1,1 @@
-"# Django Project for Zuri Task" 
+# Django Project for Zuri Task
